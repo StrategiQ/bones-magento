@@ -1,0 +1,55 @@
+FPC - Full page cache
+-----------------
+https://github.com/GordonLesti/Lesti_Fpc.git
+#installed
+
+
+SPEED AND COMPRESS - Compression and Minification
+-----------------
+https://github.com/gtmetrix/GTspeed.git
+#installed
+
+
+BLOG/WordPress Integration
+-----------------
+https://www.magentocommerce.com/magento-connect/wordpress-integration-1.html
+http://connect20.magentocommerce.com/community/Fishpig_Wordpress_Integration
+#installed
+
+Abandoned Cart Extension - Strategiq-Nas
+-----------------
+smb://Strategiq-NAS._smb._tcp.local/Customers/Live Customer/StrategiQ/Web Development/Magento-Extensions/AdjustWare_Cartalert_3.6.3_1551824_CE (1).zip
+
+
+Creare SEO
+-----------------
+https://github.com/adampmoss/CreareSEO.git
+#installed
+
+
+
+Google Shopping XML feed
+-----------------
+https://github.com/adampmoss/GoogleShopping
+https://github.com/bluevisiontec/GoogleShoppingApi
+https://github.com/bluevisiontec/GoogleShoppingApi.git
+#installed
+
+
+
+Magento htaccess
+-----------------
+https://github.com/adampmoss/magento-htaccess
+
+
+
+Manage Category, Customer and Customer Address Attributes
+-----------------
+http://connect20.magentocommerce.com/community/Hwg_Attributemanager
+#installed
+
+
+Cron AOE Scheduler
+-----------------
+http://connect20.magentocommerce.com/community/Aoe_Scheduler
+#installed
